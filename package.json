@@ -1,0 +1,16 @@
+{
+  "name": "rednose-oauth1",
+  "version": "1.0.0",
+  "description": "RFC compliant OAuth1 client library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["oauth","OAuth"],
+  "author": "REDNOSE(@R3DNO5E)",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^15.12.1",
+    "uuid": "^8.3.2"
+  }
+}
